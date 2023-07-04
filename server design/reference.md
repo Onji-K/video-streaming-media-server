@@ -1,0 +1,1 @@
+- [How To Upload Media File to S3 (better than traditional way)](https://aws.amazon.com/ko/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/)
